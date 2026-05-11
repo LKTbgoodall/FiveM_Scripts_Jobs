@@ -1,7 +1,7 @@
 # Job Électricien - FiveM Standalone
 
 Un script de job d'électricien indépendant (standalone) pour FiveM.
-Il intègre un mini-jeu de diagnostic procédural avec une difficulté évolutive (jeux inspiré du `zip` de LinkedIn.
+Il intègre un mini-jeu de diagnostic procédural avec une difficulté évolutive (jeux inspiré du `zip` de LinkedIn ).
 
 ## Fonctionnalités
 
